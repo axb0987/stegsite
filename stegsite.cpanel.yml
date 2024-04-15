@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/axb9087/repositories/stegsite
+    - export DEPLOYPATH=/home/axb9087/stegsite
     - /bin/cp -R images $DEPLOYPATH
